@@ -22,7 +22,7 @@ body {
 
 ::selection {
     background: #2d5a27;
-    color: white;
+    color: RED;
 }
 
 a {
