@@ -9,3 +9,4 @@ export default function robots(): MetadataRoute.Robots {
     sitemap: "https://abhijays-portfolio.vercel.app/sitemap.xml",
   };
 }
+
